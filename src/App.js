@@ -134,7 +134,7 @@ export default function App() {
           <Card
             title="Tenstorrent"
             sub="Software Engineer Intern"
-            date="Jan 2026 - Present"
+            date="Jan 2026 - Aug 2026"
             logo={logoTenstorrent}
             companyUrl="https://tenstorrent.com/en"
           />
